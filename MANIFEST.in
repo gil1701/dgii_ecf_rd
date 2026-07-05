@@ -1,0 +1,6 @@
+include README.md
+include LICENSE
+include requirements.txt
+recursive-include dgii_ecf_rd *.json *.py *.txt *.js *.css *.html *.xml
+recursive-include dgii_ecf_rd/public *
+recursive-include dgii_ecf_rd/templates *
