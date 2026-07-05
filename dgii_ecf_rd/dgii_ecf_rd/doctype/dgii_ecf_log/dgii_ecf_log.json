@@ -1,7 +1,6 @@
 {
  "actions": [],
  "allow_rename": 0,
- "creation": "2026-07-05 00:00:00.000000",
  "doctype": "DocType",
  "editable_grid": 1,
  "engine": "InnoDB",
@@ -34,14 +33,9 @@
    "label": "Mensaje"
   }
  ],
- "index_web_pages_for_search": 1,
  "istable": 0,
- "links": [],
- "modified": "2026-07-05 00:00:00.000000",
- "modified_by": "Administrator",
  "module": "DGII ECF RD",
  "name": "DGII ECF Log",
- "owner": "Administrator",
  "permissions": [
   {
    "create": 1,
